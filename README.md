@@ -24,6 +24,8 @@ Quantitative results On Synapse
 <img width="1299" height="549" alt="image" src="https://github.com/user-attachments/assets/70b87922-b5a1-45f6-af9c-98f3158ebd71" />
 
 Quantitative results On ACDC
-<img width="631" height="420" alt="image" src="https://github.com/user-attachments/assets/4215ecb0-d65f-41a8-893f-516f592b924f" />
+<img src="https://github.com/user-attachments/assets/4215ecb0-d65f-41a8-893f-516f592b924f"
+     alt="image"
+     style="width:631px; height:420px;"/>
 
 
